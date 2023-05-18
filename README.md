@@ -1,4 +1,4 @@
-### Olá! Eu sou Vitor Gabriel
+### Olá! Eu sou Vitor Gabriel:
 
 
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor-Gabriel-KR&show_icons=true&theme=gruvbox)
