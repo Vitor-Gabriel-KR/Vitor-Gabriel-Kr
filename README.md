@@ -1,7 +1,7 @@
 ### Olá! Eu sou Vitor Gabriel
 
 <div>
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=kroshaResheniye&show_icons=true&theme=merko)
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor-Gabriel-KR&show_icons=true&theme=merko)
 
 </div>
 
