@@ -1,10 +1,11 @@
 ### Olá! Eu sou Vitor Gabriel:
-
+<div>
 
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor-Gabriel-KR&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Gabriel-KR&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+  </div>
 
 
 <div style="display: inline_block"><br>
