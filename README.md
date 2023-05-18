@@ -12,8 +12,9 @@
   ##
  
 <div>
-   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/vitor-gabriel-49a500269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://twitter.com/KroshaResheniye" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  <a href = "https://mail.google.com/mail/u/1/#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" target="_blank"></a>
 
 </div>
