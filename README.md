@@ -1,5 +1,5 @@
 ### Olá! Eu sou Vitor Gabriel:
-<div>
+<div align="center">
 
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor-Gabriel-KR&show_icons=true&theme=gruvbox)
 
