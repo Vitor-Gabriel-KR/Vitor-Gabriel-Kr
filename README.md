@@ -1,6 +1,6 @@
 ### Olá! Eu sou Vitor Gabriel:
 
-<div align="left">
+<div align="left" style="display: inline_block">
   
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor-Gabriel-KR&show_icons=true&theme=gruvbox)
 
