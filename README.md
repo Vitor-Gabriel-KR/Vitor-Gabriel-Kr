@@ -40,6 +40,6 @@
   ### Desenvolvedor        
 
   <a href = "https://drive.google.com/file/d/1nEncV-ydoLo-r1fGde4klpO1DTFtYZp4/view?usp=share_link"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" target="_blank"></a>
-  ### Desenvolveedor Front-End + Designer 
+  ### Desenvolvedor Front-End + Designer 
    <a href = "https://drive.google.com/file/d/1N5ggASkTQQ0Oi-MN3vvsKp3rxkGZgJNv/view?usp=drive_link"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" target="_blank"></a>
 
