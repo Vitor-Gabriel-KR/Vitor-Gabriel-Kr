@@ -33,8 +33,9 @@
   
 ---
   
-### Meu Portifolio:
-  
+### Meus Portifolios:
+
 </div>
   <a href = "https://drive.google.com/file/d/1nEncV-ydoLo-r1fGde4klpO1DTFtYZp4/view?usp=share_link"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" target="_blank"></a>
+   <a href = "https://drive.google.com/file/d/1nEncV-ydoLo-r1fGde4klpO1DTFtYZp4/view?usp=share_link"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" target="_blank"></a>
 </div>
