@@ -42,7 +42,7 @@
 
   ### Desenvolvedor        
 
-  <a href = "https://drive.google.com/file/d/1tYYIqNuHFjH6iErP0Fm1tCA_eDjmofPN/view?usp=sharing"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" target="_blank"></a>
+  <a href = "https://drive.google.com/file/d/1tYYIqNuHFjH6iErP0Fm1tCA_eDjmofPN/view?usp=sharing"><img src="	http://ForTheBadge.com/images/badges/built-by-developers.svg" target="_blank"></a>
   ### Desenvolvedor Front-End + Designer 
-   <a href = "https://drive.google.com/file/d/1N5ggASkTQQ0Oi-MN3vvsKp3rxkGZgJNv/view?usp=drive_link"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" target="_blank"></a>
+   <a href = "https://drive.google.com/file/d/1N5ggASkTQQ0Oi-MN3vvsKp3rxkGZgJNv/view?usp=drive_link"><img src="	http://ForTheBadge.com/images/badges/built-by-developers.svg" target="_blank"></a>
 
