@@ -24,8 +24,9 @@
 
   ---
    ### Meu Portifólio Web:
-   
-  ---Ainda em desenvolvimento---
+   <div>
+  ### Ainda em desenvolvimento
+   </div>
   <a href = "https://vitor-gabriel-kr.github.io/Portifolio-Final/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   
   ### Fale comigo:
