@@ -2,7 +2,7 @@
 
 <div align="left" style="display: inline_block">
   
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor-Gabriel-KR&show_icons=true&theme=gruvbox)
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Gabriel-KR&layout=compact&langs_count=7&theme=tokyonight"/>
 
   </div>
