@@ -46,5 +46,5 @@
 
   ### Desenvolvedor        
 
-  <a href = "https://drive.google.com/file/d/1mG80VV_HP3k0ujY-v5X8kUaUns5P16Hk/view?usp=sharing"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" target="_blank"></a>
+  <!--  <a href = "https://drive.google.com/file/d/1mG80VV_HP3k0ujY-v5X8kUaUns5P16Hk/view?usp=sharing"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" target="_blank"></a> -->
 
