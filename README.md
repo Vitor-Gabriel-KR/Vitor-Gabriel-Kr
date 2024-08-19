@@ -6,6 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Gabriel-KR&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+<h3 style="color:#f58f8f;">Tecnologias que uso</h3> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -17,14 +18,6 @@
 </div>
 
 ---
-
-<!-- 
-### <span style="color: #f58f8f;">Meu Portfólio Web</span>
-<div>
-   Ainda em desenvolvimento
-</div>
--->
-<!--  <a href = "https://vitor-gabriel-kr.github.io/Portifolio-Final/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> -->
 
 ### <span style="color: #f58f8f;">Fale comigo</span>
 
