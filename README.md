@@ -1,4 +1,4 @@
-<h3 style="color: #f58f8f;">Olá! Eu sou Vitor Gabriel</h3>
+<h3 style="color:#f58f8f">Olá! Eu sou Vitor Gabriel</h3>
 
 <div align="left" style="display: inline_block">
   
@@ -18,11 +18,12 @@
 
 ---
 
+<!-- 
 ### <span style="color: #f58f8f;">Meu Portfólio Web</span>
 <div>
    Ainda em desenvolvimento
 </div>
-
+-->
 <!--  <a href = "https://vitor-gabriel-kr.github.io/Portifolio-Final/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> -->
 
 ### <span style="color: #f58f8f;">Fale comigo</span>
