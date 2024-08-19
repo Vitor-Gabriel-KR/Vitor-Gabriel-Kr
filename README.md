@@ -38,13 +38,4 @@
  <a href="https://twitter.com/KroshaResheniye" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
----
-  
-### Meus Portifolios:
-
-</div>
-
-  ### Desenvolvedor        
-
-  <!--  <a href = "https://drive.google.com/file/d/1mG80VV_HP3k0ujY-v5X8kUaUns5P16Hk/view?usp=sharing"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" target="_blank"></a> -->
 
