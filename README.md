@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Gabriel-KR&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<h3 style="color:#f58f8f;">Tecnologias que uso</h3> 
+<h3 style="color:#f58f8f;">Tecnologias que uso regularmente :</h3> 
 <div style="display: inline_block"><br>
      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
