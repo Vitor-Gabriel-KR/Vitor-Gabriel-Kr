@@ -1,0 +1,123 @@
+# ================================
+# Galaxy Profile - Vitor Gabriel
+# ================================
+
+username: Vitor-Gabriel-KR
+
+profile:
+  name: "Vitor Gabriel"
+  tagline: "FullCycle Software Engineer • Python • DevOps • Systems Architecture"
+  company: "Mextech Industrial Technology"
+  location: "Maringá, PR - Brazil"
+  bio: |
+    FullCycle FullStack Developer specialized in Python,
+    DevOps, and scalable software architecture.
+    I design and build end-to-end monitoring systems
+    for the renewable energy sector, delivering
+    high-performance and scalable solutions
+    from planning to production.
+  philosophy: '"A great system is one that scales, solves real problems, and creates impact."'
+
+social:
+  email: "krosharesheniye@gmail.com"
+  linkedin: "vitor-gabriel-49a500269"
+  website: "https://github.com/Vitor-Gabriel-KR"
+
+# ================================
+# GALAXY ARMS
+# ================================
+
+galaxy_arms:
+  - name: "Industrial Architecture & Systems"
+    color: "axon_amber"
+    items:
+      - "Microservices"
+      - "Clean Architecture"
+      - "Domain-Driven Design"
+      - "SCADA"
+      - "IoT Systems"
+      - "Hub Systems"
+      - "ThingsBoard"
+      - "WebSocket"
+      - "REST API"
+      - "System Integration"
+
+  - name: "Frontend & Mobile Engineering"
+    color: "dendrite_violet"
+    items:
+      - "React"
+      - "Vue.js"
+      - "Angular"
+      - "Ionic"
+      - "TypeScript"
+      - "TailwindCSS"
+      - "Responsive Design"
+      - "SPA Architecture"
+
+  - name: "Backend, DevOps & QA"
+    color: "synapse_cyan"
+    items:
+      - "Python"
+      - "Java Spring Boot"
+      - "Node.js"
+      - "Docker"
+      - "CI/CD"
+      - "Automated Testing"
+      - "Postman"
+      - "PostgreSQL"
+
+# ================================
+# FEATURED PROJECTS
+# ================================
+
+projects:
+  - repo: "Vitor-Gabriel-KR/SDSync"
+    arm: 0
+    description: "Web-based SCADA SaaS platform for real-time photovoltaic power plant monitoring."
+
+  - repo: "Vitor-Gabriel-KR/CertClient"
+    arm: 1
+    description: "Digital certificate conversion system (.PFX ⇄ .CRT + .KEY) developed in partnership with TecnoSpeed."
+
+  - repo: "Vitor-Gabriel-KR/zenkai_service_WP"
+    arm: 2
+    description: "Corporate website with modern UX/UI and well-structured architecture."
+
+# ================================
+# THEME
+# ================================
+
+theme:
+  void: "#070b12"
+  nebula: "#0f1626"
+  star_dust: "#1e293b"
+  synapse_cyan: "#00f5ff"
+  dendrite_violet: "#a855f7"
+  axon_amber: "#ffb703"
+  text_bright: "#f8fafc"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+# ================================
+# STATS
+# ================================
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+# ================================
+# LANGUAGES
+# ================================
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
